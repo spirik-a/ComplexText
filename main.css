@@ -1,0 +1,14 @@
+body {
+  background-color: rgb(247, 176, 85);
+}
+
+#tst {
+  width: 200px;
+  height: auto;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: red;
+  color: white;
+  font-size: 18px;
+}
